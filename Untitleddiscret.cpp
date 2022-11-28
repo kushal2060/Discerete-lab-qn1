@@ -79,7 +79,7 @@ int main(){
 		cout<<"For element "<<i+1<<":";
 		cin>>a[i];
 	}
-	cout<<"Enter for set A:"<<endl;
+	cout<<"Enter for set B:"<<endl;
 	for(int j=0;j<5;j++){
 		cout<<"For element "<<j+1<<":";
 		cin>>b[j];
